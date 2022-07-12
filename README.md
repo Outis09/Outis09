@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Outis09
-- 👀 I’m interested in data analysis 
+- 👀 I’m interested in data analysis :bar_chart: and data science
 - 🌱 I’m currently learning SQL and Python
 - 💞️ I’m looking to collaborate on data analysis projects
 - 📫 How to reach me ayersamuel07@gmail.com
