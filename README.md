@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Samuel Ayer
 - 👀 I’m interested in Data Analytics :bar_chart: and Data Science
-- 🌱 I’m currently learning SQL and Python
+- 🌱 I’m currently learning SQL and Python for Data Science
 - 💞️ I’m looking to collaborate on data analysis projects
 - 📫 Reach me via e-mail at ayersamuel07@gmail.com
 
