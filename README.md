@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Outis09
+- 👋 Hi, I’m Samuel Ayer
 - 👀 I’m interested in Data Analytics :bar_chart: and Data Science
 - 🌱 I’m currently learning SQL and Python
 - 💞️ I’m looking to collaborate on data analysis projects
