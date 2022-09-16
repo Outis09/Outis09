@@ -1,6 +1,6 @@
 # Hi there, I'm [Samuel Ayer](www.linkedin.com/in/samuel-tetteh-ayer-3a278b221)
 
-I'm a data and business intelligence analysis enthusiast skilled in cleaning and analyzing big data to derive actionable insights. Presently, I am taking the Udacity Data Analyst Nanodegree. I am eager to put my skills to use by helping businesses and organizations make better use of their data. I am also passionate about machine learning and after I have gained some experience in data and business intelligence analysis I intend to take the next step by applying machine learning models to the data.
+I'm a data and business intelligence analysis enthusiast skilled in cleaning and analyzing big data to derive actionable insights. Presently, I am taking the Udacity Data Analyst Nanodegree. I am eager to put my skills to use to help businesses and organizations make better use of their data. I am also passionate about machine learning and after I have gained some experience in data and business intelligence analysis I intend to take the next step by applying machine learning models to the data.
 
 - :bell: I’m looking for internships and entry level opportunities
 - 📫 Reach me via e-mail at ayersamuel07@gmail.com and on [Twitter](https://twitter.com/samuelayer07)
