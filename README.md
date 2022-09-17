@@ -30,9 +30,11 @@ I'm a data and business intelligence analysis enthusiast skilled in cleaning and
 
 ## Projects
 
-|Project|Description|
-|----------|------------|
-|[8 Week SQL Challenge](https://github.com/Outis09/8-Week-SQL-Challenge)| Solutions to case studies by Danny Ma with business problems in <ul><li>health analytics</li><li>marketing analytics</li><li>people analytics</li><li>financial markets</li><li>fast moving consumer goods</li><li>digital marketing</li></ul>
+|Project|Tools |Description|
+|----------|------------|------------|
+|[8 Week SQL Challenge](https://github.com/Outis09/8-Week-SQL-Challenge)| PostgreSQL| Solutions to case studies by Danny Ma with business problems in <ul><li>health analytics</li><li>marketing analytics</li><li>people analytics</li><li>financial markets</li><li>fast moving consumer goods</li><li>digital marketing</li></ul>
+|[Data Wrangling and Analysis](https://github.com/Outis09/Data-Wrangling-and-Analysis)|Python (Numpy, Pandas, Matplotlib)| <ul><li>gathering data from 3 sources</li><li>assessing data</li><li>cleaning data</li><li>statistical analysis and visualizations</li><li>deriving insights</li></ul>
+
 
 --------------------------------------
 
