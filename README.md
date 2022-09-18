@@ -1,10 +1,5 @@
 # Hi there, I'm [Samuel Ayer](https://www.linkedin.com/in/samuel-t-ayer-3a278b221/)
 
-<div id="header" align="center">
-  <header>
-    <h1>Hi there, I'm<p><a href="https://www.linkedin.com/in/samuel-t-ayer-3a278b221/">Samuel Ayer</a></p></h1>
-  </header>
-</div>
 
 I'm a data and business intelligence analysis enthusiast skilled in cleaning and analyzing big data to derive actionable insights. Presently, I am taking the Udacity Data Analyst Nanodegree. I am eager to put my skills to use to help businesses and organizations make better use of their data. I am also passionate about machine learning and after I have gained some experience in data and business intelligence analysis I intend to take the next step by applying machine learning models to data.
 
