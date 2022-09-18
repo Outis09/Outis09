@@ -1,3 +1,5 @@
+# Hi there, I'm [Samuel Ayer](https://www.linkedin.com/in/samuel-t-ayer-3a278b221/)
+
 <div id="header" align="center">
   <header>
     <h1>Hi there, I'm<p><a href="https://www.linkedin.com/in/samuel-t-ayer-3a278b221/">Samuel Ayer</a></p></h1>
@@ -42,9 +44,8 @@ I'm a data and business intelligence analysis enthusiast skilled in cleaning and
 
 --------------------------------------
 
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Outis09&theme=tokyonight_duo)](https://git.io/streak-stats)
-
-
 
 <!---
 Outis09/Outis09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
