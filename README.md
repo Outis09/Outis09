@@ -33,6 +33,7 @@ I am a data and business intelligence analysis enthusiast skilled in cleaning an
 
 |Project|Tools |Description|
 |----------|------------|------------|
+|[Superstore Sales Report](https://github.com/Outis09/Superstore-Sales-Report)| Power BI| Analysis of the sales of a superstore over a period of 4 years|
 |[8 Week SQL Challenge](https://github.com/Outis09/8-Week-SQL-Challenge)| PostgreSQL| Solutions to case studies by Danny Ma with business problems in <ul><li>health analytics</li><li>marketing analytics</li><li>people analytics</li><li>financial markets</li><li>fast moving consumer goods</li><li>digital marketing</li></ul>
 |[Data Wrangling and Analysis](https://github.com/Outis09/Data-Wrangling-and-Analysis)|<ul><li>Python (Numpy, Pandas, Matplotlib)</li><li>Power BI</li>| Gathering and analyzing tweets on dog ratings by [WeRateDogs](https://twitter.com/dog_rates). Activities include:<ul><li>gathering data from 3 sources</li><li>assessing data</li><li>cleaning data</li><li>statistical analysis and visualizations</li><li>deriving insights</li><li>visualising insights on a Power Bi report</li></ul>
 |[Investigating Show/NoShow to a medical appointment](https://github.com/Outis09/Investiagating-medical-dataset)| <ul><li>Numpy</li><li>Pandas</li><li>Matplotlib</li></ul>| Performing exploratory data analysis to identify factors that are important to predict if a patient will show up for their medical appointment
