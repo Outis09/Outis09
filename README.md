@@ -40,8 +40,11 @@ A data analyst skilled in cleaning and analyzing data to derive actionable insig
 
 --------------------------------------
 
+<div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Outis09&theme=tokyonight_duo)](https://git.io/streak-stats)
+ 
+</div>
 
 
 
