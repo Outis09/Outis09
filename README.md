@@ -4,7 +4,7 @@
 A data analyst skilled in cleaning and analyzing data to derive actionable insights. I am eager to leverage my skills to guide business decisions by providing insights and business intellegence from data. I am also passionate about using machine learning models to perform predictive analysis.
 
 - :bell: I’m looking for internships and entry level opportunities
-- 📫 Reach me via e-mail at ayersamuel07@gmail.com and on [Twitter](https://twitter.com/samuelayer07)
+- 📫 Reach me via e-mail at **ayersamuel07@gmail.com** and on **[Twitter](https://twitter.com/samuelayer07)**
 
 -----------------------------
 
