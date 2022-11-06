@@ -67,10 +67,10 @@ A data analyst skilled in cleaning and analyzing data to derive actionable insig
  
 </div>
 
+  ---------------------------------------------------
+  
 ## Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
+* **[Data Assessment in Python using Pandas](https://medium.com/@ayersamuel07/data-assessment-in-python-using-pandas-b47318f42aef)**
 
 <!---
 Outis09/Outis09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
