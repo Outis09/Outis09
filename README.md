@@ -11,13 +11,9 @@
 A data analyst skilled in cleaning and analyzing data to derive actionable insights. I am eager to leverage my skills to guide business decisions by providing insights and business intellegence from data. I am also passionate about using machine learning models to perform predictive analysis.
 
 - 📝 I write blogs on Data Analytics and Data Science on **[Medium](https://medium.com/@ayersamuel07)**
-- :bell: I’m looking for internships and entry level opportunities
-- 📫 How to reach me:
+- 📫 Reach me via email at **[ayersamuel210@gmail.com](ayersamuel210@gmail.com)** or via:
 
 <div align="center" id="badges">
-  <a href = "ayersamuel07@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt ="Gmail Badge"/>
-  </a>
   <a href="https://www.linkedin.com/in/samuel-t-ayer-3a278b221/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
