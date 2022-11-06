@@ -1,14 +1,39 @@
+<div align="center">
+  
 # Hi there :wave:, I'm [Samuel Ayer](https://www.linkedin.com/in/samuel-t-ayer-3a278b221/)
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 
 A data analyst skilled in cleaning and analyzing data to derive actionable insights. I am eager to leverage my skills to guide business decisions by providing insights and business intellegence from data. I am also passionate about using machine learning models to perform predictive analysis.
 
+- 📝 I write blogs on Data Analytics and Data Science on **[Medium](https://medium.com/@ayersamuel07)**
 - :bell: I’m looking for internships and entry level opportunities
-- 📫 Reach me via e-mail at **ayersamuel07@gmail.com** and on **[Twitter](https://twitter.com/samuelayer07)**
+- 📫 How to reach me:
+
+<div align="center" id="badges">
+  <a href = "ayersamuel07@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt ="Gmail Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/samuel-t-ayer-3a278b221/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://medium.com/@ayersamuel07">
+    <img src="https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white&style=for-the-badge" alt="Medium Badge"/>
+  </a>
+  <a href="https://twitter.com/samuelayer07">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+
 
 -----------------------------
 
-## Technical Skills :man_technologist:
+## Tools :man_technologist:
 
 * SQL (PostgreSQL, MySQL)
 * MS Excel
@@ -29,8 +54,8 @@ A data analyst skilled in cleaning and analyzing data to derive actionable insig
 
 --------------------------------------
 
-## Projects
-
+ ## Projects
+  
 |Project|Tools |Description|
 |----------|------------|------------|
 |**[Superstore Sales Report](https://github.com/Outis09/Superstore-Sales-Report)**| Power BI| Analysis of the sales of a superstore over a period of 4 years|
