@@ -67,7 +67,9 @@ A data analyst skilled in cleaning and analyzing data to derive actionable insig
  
 </div>
 
-
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 <!---
