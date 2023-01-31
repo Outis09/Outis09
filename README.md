@@ -52,7 +52,7 @@
 
 --------------------------------------
 
- ## Projects
+ ## Featured Projects
   
 |Project|Tools |Description|
 |----------|------------|------------|
