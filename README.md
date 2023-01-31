@@ -12,7 +12,7 @@
 * I am eager to leverage my skills to guide business decisions by providing insights and business intellegence from data. 
 * I am also passionate about using machine learning models to perform predictive analysis.
 
-- 📝 I write blogs on Data Analytics and Data Science on **[Medium](https://medium.com/@ayersamuel07)**
+- 📝 I write blogs on my projects and Data Analytics on **[Medium](https://medium.com/@ayersamuel07)**
 - 📫 Reach me via email at **[ayersamuel210@gmail.com](ayersamuel210@gmail.com)** or via:
 
 <div align="center" id="badges">
@@ -72,7 +72,8 @@
   ---------------------------------------------------
   
 ## Blog posts
-* **[Data Assessment in Python using Pandas](https://medium.com/@ayersamuel07/data-assessment-in-python-using-pandas-b47318f42aef)**
+* **[Data Assessment in Python using Pandas](https://medium.com/@ayersamuel07/data-assessment-in-python-using-pandas-b47318f42aef)** 
+* **[Data Wrangling and Analysis - Insights From WeRateDogs Twitter Archive](https://medium.com/@ayersamuel07/data-wrangling-and-analysis-insights-from-weratedogs-twitter-archive-28bc9d3862c9)**
 
 <!---
 Outis09/Outis09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
