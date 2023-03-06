@@ -9,8 +9,7 @@
 
 
 * A data analyst skilled in cleaning and analyzing data to derive actionable insights. 
-* I am eager to leverage my skills to guide business decisions by providing insights and business intellegence from data. 
-* I am also passionate about using machine learning models to perform predictive analysis.
+* I am passionate about using machine learning models to perform predictive analysis.
 
 - 📝 I write blogs on my projects and Data Analytics on **[Medium](https://medium.com/@ayersamuel07)**
 - 📫 Reach me via email at **[ayersamuel210@gmail.com](ayersamuel210@gmail.com)** or via:
