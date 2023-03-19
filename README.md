@@ -42,17 +42,19 @@
 * Power BI
 * Python (Numpy, Pandas, Matplotlib, Seaborn)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tuyojr/tuyojr/main/images/postgres.png" width="70" />
-  <img src="https://pngimg.com/uploads/mysql/mysql_PNG22.png"width="70" />
-  <img src="https://store-images.s-microsoft.com/image/apps.9729.14405452487353876.a6612b1c-3bfc-46da-ad7e-0dd83b65757d.be9b17fe-9781-42f6-9a3e-4914ef774843?mode=scale&q=90&h=300&w=300" width="70" />
-  <img src="https://e7.pngegg.com/pngimages/108/891/png-clipart-microsoft-excel-computer-icons-export-microsoft-angle-logo-thumbnail.png" width="70" />
-  <img src="https://raw.githubusercontent.com/tuyojr/tuyojr/main/images/python.png" width="70" /> 
-   <img src="https://www.pngkey.com/png/detail/96-961478_in-order-to-show-how-holoviews-works-well.png" width="70" /> 
-  <img src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" width="70" />
-  <img src="https://onlineidealab.com/wp-content/uploads/matplotlib.png" width="70" /> 
-   <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="70" />  
-</p>
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL Server" alt="SQL Server" width="50" height="50"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" alt="Power BI" width="50" height="50"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" title="Excel" alt="Excel" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy"  alt="NumPy" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="50" height="50"/>&nbsp;
+  <img src="https://onlineidealab.com/wp-content/uploads/matplotlib.png" title="Matplotlib" alt="Matplotlib" width="50" height="50"/>&nbsp;
+  <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" title="Seaborn" **alt="Seaborn" width="50" height="50"/>
+</div>
+
 
 --------------------------------------
 
