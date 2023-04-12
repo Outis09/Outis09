@@ -8,7 +8,7 @@
 </div>
 
 
-* A data analyst who leverages SQL, MS Excel, Power BI and Python to extract actionable insights from data
+* A data analyst leveraging SQL, MS Excel, Power BI and Python to extract actionable insights from data
 * Skills include:
    * Data Collection and Consolidation
    * Data Assessment and Cleaning
