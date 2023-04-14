@@ -82,7 +82,8 @@
 * **[Data Assessment in Python using Pandas](https://medium.com/@ayersamuel07/data-assessment-in-python-using-pandas-b47318f42aef)** 
 * **[Data Wrangling and Analysis - Insights From WeRateDogs Twitter Archive](https://medium.com/@ayersamuel07/data-wrangling-and-analysis-insights-from-weratedogs-twitter-archive-28bc9d3862c9)**
 * **[Employee Attrition Analysis](https://medium.com/@ayersamuel07/employee-attrition-analysis-8f96a8d8126?source=user_profile---------0----------------------------)**
-
+* **[Revenue Analysis In Excel and Power BI](https://medium.com/@ayersamuel07/revenue-analysis-6117f21afc99?source=user_profile---------0----------------------------)**
+  
 <!---
 Outis09/Outis09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
