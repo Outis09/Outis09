@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi there :wave:, I'm [Samuel Ayer](https://www.linkedin.com/in/samuel-t-ayer-3a278b221/)
+# Hi there :wave:, I'm [Samuel Ayer](https://www.linkedin.com/in/samuel-ayer/)
 </div>
 
 <div align="center">
@@ -20,7 +20,7 @@
 - 📫 Reach me via email at **<a href="mailto:ayersamuel210@gmail.com">ayersamuel210@gmail.com</a>** or via:
 
 <div align="center" id="badges">
-  <a href="https://www.linkedin.com/in/samuel-t-ayer-3a278b221/">
+  <a href="https://www.linkedin.com/in/samuel-ayer/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://medium.com/@ayersamuel07">
