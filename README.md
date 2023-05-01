@@ -17,7 +17,7 @@
    * Report Writing and Insights Communication
 
 - 📝 I write blogs on my projects and Data Analytics on **[Medium](https://medium.com/@ayersamuel07)**
-- 📫 Reach me via email at **[ayersamuel210@gmail.com](ayersamuel210@gmail.com)** or via:
+- 📫 Reach me via email at **<a href="mailto:ayersamuel210@gmail.com">ayersamuel210@gmail.com</a>** or via:
 
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/samuel-t-ayer-3a278b221/">
